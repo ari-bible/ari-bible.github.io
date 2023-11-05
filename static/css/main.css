@@ -3,8 +3,8 @@ body{
   margin: 1em 3em;
   max-width: 1080px;
   padding: 10px 30px;
-/*  font-family: "Apparat", "Book Antiqua", Sweden, sans-serif;*/
-  font-family: apparat, sans-serif;
+/*  font-family: "Sweden Sans", "Book Antiqua", Sweden, sans-serif;*/
+  font-family: "Helvetica", sans-serif;
   font-style: normal;
 }
 
